@@ -1,4 +1,4 @@
-rootProject.name = "templateDM"
+rootProject.name = "ObservatoryDM"
 
 dependencyResolutionManagement {
     repositories {

@@ -1,4 +1,4 @@
-TemplateDM Home
+ObservatoryDM Home
 ==================
 
 This will be the home page for the site
